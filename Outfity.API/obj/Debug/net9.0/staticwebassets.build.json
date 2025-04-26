@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "1IFEEY6NakTQGPFREnE4YMYHhM+6M95BmoYANInPuFw=",
+  "Source": "Outfity.API",
+  "BasePath": "_content/Outfity.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
